@@ -588,6 +588,25 @@
         "name": "Quickened Pulse",
         "type": "s"
     },
+       "quick riposte 1": {
+        "description": "Unit automatically makes a follow up attack if attacked at HP more or equal to than 90%.",
+        "id": "quick riposte 1",
+        "name": "Quick Riposte 1",
+        "type": "s"
+    },
+           "quick riposte 2": {
+        "description": "Unit automatically makes a follow up attack if attacked at HP more or equal to than 80%.",
+        "id": "quick riposte 2",
+        "name": "Quick Riposte 2",
+        "type": "s"
+    },
+           "quick riposte 3": {
+        "description": "Unit automatically makes a follow up attack if attacked at HP more or equal to than 700%.",
+        "id": "quick riposte 3",
+        "name": "Quick Riposte 3",
+        "type": "s"
+    },
+    
     "resistance-plus-1": {
         "description": "Grants Res +1",
         "id": "resistance-plus-1",
